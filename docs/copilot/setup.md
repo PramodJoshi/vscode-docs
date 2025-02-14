@@ -7,11 +7,9 @@ To set up GitHub Copilot in VS Code, you need to perform the following steps:
 
 ### Install the GitHub Copilot extensions
 
-To manually install the GitHub Copilot extensions:
-
-> <a class="install-extension-btn" href="vscode:extension/GitHub.copilot?referrer=docs-copilot-setup">Install the GitHub Copilot extensions</a>
-
-You can also open the Extensions view and search for *GitHub Copilot* to install the extension.
+Open the Extensions view and search for *GitHub Copilot* to install the extension.
+<!-- ![Exntenion view to search for GitHub Copilot.](images/setup/extension.png) -->
+<img src="images/setup/extension.png" alt="drawing" width="600"/>
 
 > [!NOTE]
 > When you install the GitHub Copilot extension, the [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) extension is also installed.
